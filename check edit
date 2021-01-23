@@ -1,0 +1,20 @@
+
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "la dee da\n"
+      "I do not have much programming experience. I only took one course, CMPT 120 Intro to Programming, involving some Python.\n"
+     ]
+    }
+   ],
+   "source": [
+    "print('la dee da')"
+    "print('I do not have much programming experience. I only took one course, CMPT 120 Intro to Programming, involving some Python.')"
+   ]
+  },
